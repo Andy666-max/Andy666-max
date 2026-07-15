@@ -1,6 +1,9 @@
 # Hi 👋, I'm Andy-S
 
 ### A budding developer
+### 🚀 My Featured Project
+- [Easy Uninstall Linux](https://github.com/Andy666-max/EUN-EasyUninstall-on-Linux) - A simple software with GUI to uninstall software easily
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andy666-max&label=Profile views&color=0e75b6&style=flat" alt="Andy666-max" /> </p>
 
